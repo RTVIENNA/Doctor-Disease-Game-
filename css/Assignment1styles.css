@@ -1,0 +1,60 @@
+/* https://coolors.co/
+#283618
+#606c38
+#fefae0
+#dda15e
+#bc6c25 */
+
+/* 00 DOM tree */
+
+h1 {
+  color: #05041b;
+
+}
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding-top: 10px;
+  background-color: #6cafe0;
+  background-image: url("../images/Sick.png");
+  /*background-size: 1400px;*/
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-position: top;
+}
+
+.body-div {
+  width: 70%;
+  /*background-color: #4280bf;*/
+  /*background-color: #6cafe0;*/
+  margin: 0 auto;
+  min-width: 510px;
+  /*background-image: url("../images/Viruses.png");
+  background-size: 400px;*/
+}
+
+/* 01 Logic */
+
+/* 02 ArrayToQueue */
+
+.buttons {
+  /* float: none; */
+  margin: 10px;
+}
+
+canvas {
+  border: 1px solid #345a9d;
+  background-color: #f7f7f7;
+}
+
+img {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 140px;
+  height: 140px;
+  margin-top: 0.5cm;
+  margin-right: 0.5cm;
+}
